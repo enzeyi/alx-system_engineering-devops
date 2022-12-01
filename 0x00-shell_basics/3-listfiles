@@ -1,2 +1,2 @@
 #!/bin/bash
-ls-l
+ls-l 0x03-shell_basics
